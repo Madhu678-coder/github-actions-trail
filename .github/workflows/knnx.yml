@@ -25,4 +25,4 @@ jobs:
         pip install scikit-learn
 
     - name: Run KNN script
-      run: python knn_model.py
+      run: python knn.py
